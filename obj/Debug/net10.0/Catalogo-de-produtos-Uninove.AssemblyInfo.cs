@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Catalogo-de-produtos-Uninove")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+840c20e3f2ee66279c5a52ef11ba55fe64d2f61c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f09d6dca4294e70dc4137729104bd23d30156e53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Catalogo-de-produtos-Uninove")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Catalogo-de-produtos-Uninove")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
